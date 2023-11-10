@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Navigation = () => {
   return (
-    <nav className="h-16 flex justify-between items-center max-w-7xl mx-auto">
+    <nav className="h-16 flex justify-between items-center max-w-7xl mx-auto bg-white">
       <ul>
         <li>
           <Link href="/">퍼플아이오</Link>
